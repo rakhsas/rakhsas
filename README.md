@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 <h1>Socials</h1><br><br>
 
 <p align="center">
- <a href="https://www.facebook.com/aminediwane.90" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme- generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+<!--  <a href="https://www.facebook.com/aminediwane.90" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme- generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> -->
  <a href="https://github.com/rakhsas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
  <a href="http://www.instagram.com/aminediouane13" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
  <a href="https://www.linkedin.com/in/rida-akhsas-21681515b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
