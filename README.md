@@ -48,7 +48,8 @@ You can click the Preview link to take a look at your changes.
  <a href="https://twitter.com/akhsas_reda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-<h1>My GitHub Stats</h1><br>
+<p align="center"><h1>My GitHub Stats</h1></p>
+<br>
 
 <a href="http://www.github.com/adiouane"><img src="https://github-readme-stats.vercel.app/api?username=rakhsas&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=22c55e&bg_color=27272a&hide_border=true&show_icons=true" alt="adiouane's GitHub stats" /></a><br>
 
