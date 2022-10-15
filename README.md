@@ -8,7 +8,10 @@ Developer, Designer & blogger
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+<a href="https://www.twitter.com/akhsas_reda" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/akhsas_reda?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a><a href="https://www.github.com/rakhsas" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/rakhsas?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rakhsas" alt="rakhsas's 42 stats" /></a>
 </p><br>
