@@ -5,7 +5,7 @@ Full Stack Developer
 -----------------------------
 - 👋 Hi, I’m @rakhsas
 - 👀 I’m interested in WEB, BIG DATA
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C, C++, Node js, Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
