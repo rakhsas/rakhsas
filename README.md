@@ -15,7 +15,7 @@ Full Stack Developer
                 /></a><a href="https://www.github.com/rakhsas" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/rakhsas?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/rakhsas" alt="rakhsas's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/rakhsas" alt="rakhsas's 42 stats" /></a>
 </p><br>
 <h1>Skills</h1><br><br>
  </p>
