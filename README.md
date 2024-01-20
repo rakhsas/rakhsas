@@ -14,7 +14,8 @@ Full Stack Developer
                   src="https://img.shields.io/twitter/follow/akhsas_reda?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a><a href="https://www.github.com/rakhsas" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/rakhsas?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-                  ![](https://komarev.com/ghpvc/?username=rakhsas&color=green&base=1000&abbreviated=true)
+                  <div class="" style="height:30px;">
+                  ![](https://komarev.com/ghpvc/?username=rakhsas&color=green&base=1000&abbreviated=true)</div>
 <p align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/rakhsas" alt="rakhsas's 42 stats" /></a>
 </p><br>
