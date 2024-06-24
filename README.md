@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 -----------------------------
 - 👋 Hi, I’m @rakhsas
-- 👀 I’m interested in WEB, BIG DATA
-- 🌱 I’m currently learning C, C++, Node js, Angular
+- 👀 I’m interested in WEB, Devops
+- 🌱 I’m currently learning C, C++, Java (Spring Boot), Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
