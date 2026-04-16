@@ -5,7 +5,7 @@ Full Stack Developer
 -----------------------------
 - 👋 Hi, I’m @rakhsas
 - 👀 I’m interested in WEB, Devops
-- 🌱 I’m currently learning C, C++, Java (Spring Boot), Angular
+- 🌱 I’m currently learning SAP S/4, Java (Spring Boot), Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
